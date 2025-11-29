@@ -123,7 +123,7 @@ a:hover { color: #86c553; }
 }
 
 table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
-	background-color: #ECF3F7;
+	background-color: #353336;
 }
 
 .bg2 {
