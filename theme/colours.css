@@ -208,7 +208,7 @@ dl.details dd {
 /* Icon styles
 ---------------------------------------- */
 .icon.icon-blue, a:hover .icon.icon-blue {
-	color: #196db5;
+	color: #67a2d5;
 }
 
 .icon.icon-green, a:hover .icon.icon-green {
@@ -216,23 +216,23 @@ dl.details dd {
 }
 
 .icon.icon-red, a:hover .icon.icon-red {
-	color: #BC2A4D;
+	color: #f36987;
 }
 
 .icon.icon-orange, a:hover .icon.icon-orange {
-	color: #FF6600;
+	color: #ffa163;
 }
 
 .icon.icon-bluegray, a:hover .icon.icon-bluegray {
-	color: #536482;
+	color: #7e8faf;
 }
 
 .icon.icon-gray, a:hover .icon.icon-gray {
-	color: #777777;
+	color: #9a9a9a;
 }
 
 .icon.icon-lightgray, a:hover .icon.icon-lightgray {
-	color: #999999;
+	color: #d3d3d3;
 }
 
 .icon.icon-black, a:hover .icon.icon-black {
