@@ -402,28 +402,24 @@ dl.faq dt {
 ----------------------------------------*/
 /* Quote block */
 blockquote {
-	background-color: #EBEADD;
-	border-color:#DBDBCE;
+	background-color: #353336;
+	border-color:#5aa938;
 }
 
 blockquote blockquote {
 	/* Nested quotes */
-	background-color: #EFEED9;
+	background-color: #353336;
 }
 
 blockquote blockquote blockquote {
 	/* Nested quotes */
-	background-color: #EBEADD;
+	background-color: #353336;
 }
 
 /* Code block */
 .codebox {
-	background-color: #FFFFFF;
-	border-color: #C9D2D8;
-}
-
-.codebox p {
-	border-bottom-color: #CCCCCC;
+	background-color: #000000;
+	border-color: #59a838;
 }
 
 .codebox code {
@@ -433,12 +429,12 @@ blockquote blockquote blockquote {
 /* Attachments
 ----------------------------------------*/
 .attachbox {
-	background-color: #FFFFFF;
+	background-color: #353336;
 	border-color: #C9D2D8;
 }
 
 .pm-message .attachbox {
-	background-color: #F2F3F3;
+	background-color: #353336;
 }
 
 .attachbox dd {
